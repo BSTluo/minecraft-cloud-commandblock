@@ -1,0 +1,21 @@
+{
+  "name": "cloud-commandblock",
+  "version": "1.0.0",
+  "description": "connect websoocket for minecraft",
+  "main": "bstluo.js",
+  "dependencies": {
+    "cqhttp": "^1.2.0",
+    "koishi": "^1.12.0",
+    "meowslib": "^8.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"test right\");"
+  },
+  "keywords": [
+    "minecraft",
+    "websocket"
+  ],
+  "author": "bstluo",
+  "license": "ISC"
+}

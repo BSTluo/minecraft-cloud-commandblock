@@ -10,6 +10,24 @@ var fs = require("fs");
 var readline = require('readline');
 
 /*
+启动natapp
+var child_process=require("child_process")
+child_process.execFile("tcp.bat",null,{cwd:'./ex/natapp/', windowsHide:false},function(error,stdout,stderr){
+    if(error !==null){
+        console.log("exec error:"+error)
+    }
+    else {
+    	console.log("成功")
+    }
+})
+*/
+
+
+
+
+ 
+
+/*
 * 按行读取文件内容
 * 返回：字符串数组
 * 参数：fReadName:文件名路径

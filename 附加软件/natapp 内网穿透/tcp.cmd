@@ -1,1 +1,0 @@
-natapp.exe -authtoken 此处填写natapp的tokeen
